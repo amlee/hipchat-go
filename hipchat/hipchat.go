@@ -19,7 +19,8 @@ import (
 )
 
 const (
-	defaultBaseURL = "https://api.hipchat.com/v2/"
+	//defaultBaseURL = "https://api.hipchat.com/v2/"
+	defaultBaseURL = "https://hip.apple.com/v2/"
 )
 
 // Client manages the communication with the HipChat API.
