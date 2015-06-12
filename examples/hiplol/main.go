@@ -28,5 +28,5 @@ func main() {
 		fmt.Printf("Server returns %+v\n", resp)
 		return
 	}
-	fmt.Println("Lol sent !")
+	fmt.Printf("%s sent !\n", *message)
 }
