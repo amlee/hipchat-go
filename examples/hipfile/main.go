@@ -4,7 +4,8 @@ import (
 	"flag"
 	"fmt"
 
-	"github.com/tbruyelle/hipchat-go/hipchat"
+	//"github.com/tbruyelle/hipchat-go/hipchat"
+	"github.com/amlee/hipchat-go/hipchat"
 )
 
 var (
